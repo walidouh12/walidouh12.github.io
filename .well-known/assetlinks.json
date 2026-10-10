@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ma.ouhamou.prepasante2026",
+    "sha256_cert_fingerprints": ["02:73:6A:46:68:FA:61:AF:AD:63:D2:56:47:EB:C8:47:FA:E3:27:EC:27:C4:75:5D:6C:DD:AD:13:2F:43:F4:FF"]
+  }
+}]
